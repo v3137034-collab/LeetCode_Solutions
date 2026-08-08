@@ -1,1 +1,28 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Math
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Tree
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+<!---LeetCode Topics End-->
