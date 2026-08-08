@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Dynamic Programming
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Tree
@@ -53,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/1025-divisor-game) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
