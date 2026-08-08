@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -68,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
