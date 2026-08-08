@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Tree
 |  |
