@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Math
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Linked List
 |  |
