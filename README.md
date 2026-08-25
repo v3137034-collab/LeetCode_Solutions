@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/v3137034-collab/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
